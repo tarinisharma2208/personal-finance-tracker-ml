@@ -20,10 +20,15 @@ A simple web-based personal finance tracker built using Python and Streamlit.
 
 ## 📂 Project Structure
 
- ```personal-finance-tracker-ml/
+ ```
+personal-finance-tracker-ml/
+
 │── app.py
+
 │── requirements.txt
+
 │── sample.csv
+
 │── README.md
 ```
 
